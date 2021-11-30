@@ -12,3 +12,4 @@ this is master's content.devel is created.
 tree.
 newbranch
 newbug.
+newbug1.
